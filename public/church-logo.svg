@@ -1,0 +1,50 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Yellow Circle Background -->
+  <circle cx="100" cy="100" r="80" fill="#FFD700"/>
+  
+  <!-- Sun Rays -->
+  <g stroke="#FFD700" stroke-width="3" stroke-linecap="round">
+    <line x1="100" y1="10" x2="100" y2="30"/>
+    <line x1="100" y1="170" x2="100" y2="190"/>
+    <line x1="10" y1="100" x2="30" y2="100"/>
+    <line x1="170" y1="100" x2="190" y2="100"/>
+    <line x1="30" y1="30" x2="45" y2="45"/>
+    <line x1="155" y1="155" x2="170" y2="170"/>
+    <line x1="170" y1="30" x2="155" y2="45"/>
+    <line x1="45" y1="155" x2="30" y2="170"/>
+  </g>
+  
+  <!-- Church Building - Dark Blue -->
+  <!-- Main Structure -->
+  <rect x="70" y="85" width="60" height="75" fill="#003366"/>
+  
+  <!-- Roof/Steeple -->
+  <polygon points="100,50 70,85 130,85" fill="#003366"/>
+  
+  <!-- Cross on top -->
+  <rect x="95" y="35" width="10" height="25" fill="white"/>
+  <rect x="85" y="45" width="30" height="10" fill="white"/>
+  
+  <!-- Door -->
+  <rect x="90" y="130" width="20" height="30" fill="#FFD700"/>
+  <circle cx="108" cy="145" r="2" fill="#003366"/>
+  
+  <!-- Windows -->
+  <rect x="75" y="95" width="12" height="12" fill="#FFD700"/>
+  <rect x="75" y="115" width="12" height="12" fill="#FFD700"/>
+  <rect x="113" y="95" width="12" height="12" fill="#FFD700"/>
+  <rect x="113" y="115" width="12" height="12" fill="#FFD700"/>
+  
+  <!-- Window Panes -->
+  <line x1="81" y1="95" x2="81" y2="107" stroke="#003366" stroke-width="1"/>
+  <line x1="75" y1="101" x2="87" y2="101" stroke="#003366" stroke-width="1"/>
+  
+  <line x1="81" y1="115" x2="81" y2="127" stroke="#003366" stroke-width="1"/>
+  <line x1="75" y1="121" x2="87" y2="121" stroke="#003366" stroke-width="1"/>
+  
+  <line x1="119" y1="95" x2="119" y2="107" stroke="#003366" stroke-width="1"/>
+  <line x1="113" y1="101" x2="125" y2="101" stroke="#003366" stroke-width="1"/>
+  
+  <line x1="119" y1="115" x2="119" y2="127" stroke="#003366" stroke-width="1"/>
+  <line x1="113" y1="121" x2="125" y2="121" stroke="#003366" stroke-width="1"/>
+</svg>
